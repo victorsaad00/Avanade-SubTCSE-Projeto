@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Avanade.SubTCSE.Projeto.Domain.Aggregates.Employee.Services {
-    interface IEmployeeService {
+namespace Avanade.SubTCSE.Projeto.Domain.Aggregates.EmployeeRole.Validators {
+    class EmployeeRoleValidator {
     }
 }
